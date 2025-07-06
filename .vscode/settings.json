@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./TitanSend/titansend/transport_",
+        "./TitanSend/titansend/transport_",
+        "./TitanSend/titansend/transport_"
+    ]
+}

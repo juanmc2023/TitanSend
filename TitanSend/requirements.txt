@@ -1,0 +1,12 @@
+cryptography
+pycryptodome
+secretsharing
+qrcode
+pyzbar
+colorama
+
+# Dependencias opcionales
+# pybluez  # Solo para Windows con Python <= 3.9
+# pyudev   # Solo para Linux
+# stem>=1.8.0  # Para Tor
+# PySocks>=1.7.1  # Para Tor 
