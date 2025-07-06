@@ -56,6 +56,21 @@
    pip install stem PySocks
    ```
 
+### Dependencias opcionales
+
+- Para Bluetooth real (solo Windows ≤ 3.9):
+  ```bash
+  pip install pybluez
+  ```
+- Para soporte Tor:
+  ```bash
+  pip install stem PySocks
+  ```
+- Para detección de USB en Linux:
+  ```bash
+  pip install pyudev
+  ```
+
 ---
 
 ## 📝 Ejemplo de uso (CLI avanzado)
